@@ -1,0 +1,6 @@
+{
+  "name": "Abiodun's GPA calculator app",
+  "description": "Interactive and responsive GPA and CGPA calculator with user accounts and session persistence, featuring white and blue branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
